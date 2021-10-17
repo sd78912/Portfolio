@@ -4,7 +4,7 @@ Steps to view the file:-
 
 2. Extract the code.
 
-3. Click here:- https://sd78912.github.io/Portfolio/
+3. Click here:- 
 
 ![photo123](https://user-images.githubusercontent.com/64826389/137616620-93584411-1b4a-47c1-b17c-d28082ebe92e.PNG)
 
